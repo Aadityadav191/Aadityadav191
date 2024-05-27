@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aadit-yadav-b17636258/](https://www.linkedin.com/in/aadit-yadav-b17636258/)
 
-- 💬 Ask me about **C , C++ , JS , HTML , CSS , JAVA**,React ,Python
+- 💬 Ask me about **C , C++ , JS , HTML , CSS , JAVA**, REACT , PYTHON
 
 - 📫 How to reach me **Yaaditya191@gmail.com**
 
