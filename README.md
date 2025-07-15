@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently Studying Software Engineering .
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aadit-yadav-b17636258/](https://www.linkedin.com/in/aadit-yadav-b17636258/)
+- 👨‍💻 All of my projects are available at [https://aadityadav.netlify.app/](https://aadityadav.netlify.app/)
 
 - 💬 Ask me about **C , C++ , JS , HTML , CSS , JAVA**, REACTJS, NEXTJS , PYTHON , DJANGO
 
 - 📫 How to reach me **aadityadav.dev@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact :- **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
