@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C , C++ , JS , HTML , CSS , JAVA**, REACTJS, NEXTJS , PYTHON , DJANGO
 
-- 📫 How to reach me **Yaaditya191@gmail.com**
+- 📫 How to reach me **aadityadav.dev@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
