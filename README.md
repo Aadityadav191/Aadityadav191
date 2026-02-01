@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently Studying Software Engineering .
 
-- 👨‍💻 All of my projects are available at [https://aadityadav.netlify.app/](https://aadityadav.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://aadityadav.com.np/](https://aadityadav.com.np/)
 
 - 💬 Ask me about **C , C++ , JS , HTML , CSS , JAVA**, REACTJS, NEXTJS , PYTHON , DJANGO
 
